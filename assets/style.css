@@ -87,11 +87,11 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    height: 2rem;
+    height: 3rem;
 }
 
 footer p {
     text-align: center;
-    font-size: 0.8rem;
-    margin-top: 0,rem;
+    font-size: 1.0rem;
+    margin-top: 1.0rem;
 }
